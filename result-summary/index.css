@@ -172,13 +172,12 @@ button{
     border-radius: 40px;
     background-color: hsl(224, 30%, 27%);
     color: white;
-    font-size: 15px;
+    font-size: 18px;
 }
 
 @media only screen and (max-width: 600px) {
     button{
-        height: 100%;
-        font-size: larger;
+        height: 60px;
     }
 }
 
